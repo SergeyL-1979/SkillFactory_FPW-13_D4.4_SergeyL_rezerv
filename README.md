@@ -2,3 +2,6 @@
 
 для установки библиотек используйте следущую команду:
 python -m pip install -r requirements.txt
+
+
+Тут до изменения в папке tepletes
