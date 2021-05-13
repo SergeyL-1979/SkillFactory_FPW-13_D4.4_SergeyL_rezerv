@@ -4,4 +4,4 @@
 python -m pip install -r requirements.txt
 
 
-Тут до изменения в папке tepletes
+Тут до изменения в папке **templates**
