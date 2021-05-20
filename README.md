@@ -4,4 +4,4 @@
 python -m pip install -r requirements.txt
 
 
-Тут до изменения в папке **templates**
+Тут до изменения в папке **templates** до удаления нескольких страниц news, new и еще несколько
